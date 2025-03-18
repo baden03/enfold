@@ -147,10 +147,3 @@ If you have additional insights or alternative solutions, please:
 1. Fork this repository
 2. Create a feature branch
 3. Submit a Pull Request
-
-## License
-This documentation and associated code are provided under the MIT License.
-
-## Support
-- For Enfold theme issues: [Kriesi Support](https://kriesi.at/support)
-- For Ultimate Member issues: [Ultimate Member Support](https://ultimatemember.com/support/)
